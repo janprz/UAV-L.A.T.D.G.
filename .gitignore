@@ -1,2 +1,4 @@
 *.las
 *.ipynb_checkpoints
+*.jpg
+Not_working.ipynb
